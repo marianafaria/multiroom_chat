@@ -1,1 +1,1 @@
-# multiroom_chat
+Projeto Chat do Curso NodeJS e MongoDB
