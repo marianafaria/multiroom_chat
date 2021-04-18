@@ -105,29 +105,14 @@
       "resolved": "https://registry.npmjs.org/ee-first/-/ee-first-1.1.1.tgz",
       "version": "1.1.1"
     },
-    "ejs": {
-      "integrity": "sha512-9lt9Zse4hPucPkoP7FHDF0LQAlGyF9JVpnClFLFH3aSSbxmyoqINRpp/9wePWJTUl4KOQwRL72Iw3InHPDkoGw==",
-      "requires": {
-        "jake": "^10.6.1"
-      },
-      "resolved": "https://registry.npmjs.org/ejs/-/ejs-3.1.6.tgz",
-      "version": "3.1.6"
-    },
+    "ejs": "^3.1.6",
     "escape-string-regexp": {
       "integrity": "sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=",
       "resolved": "https://registry.npmjs.org/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz",
       "version": "1.0.5"
     },
     "express": "^4.17.1",
-    "express-validator": {
-      "integrity": "sha512-gDtepU94EpUzgFvKO/8JzjZ4uqIF4xHekjYtcNgFDiBK6Hob3MQhPU8s/c3NaWd1xi5e5nA0oVmOJ0b0ZBO36Q==",
-      "requires": {
-        "lodash": "^4.17.20",
-        "validator": "^13.5.2"
-      },
-      "resolved": "https://registry.npmjs.org/express-validator/-/express-validator-6.10.0.tgz",
-      "version": "6.10.0"
-    },
+    "express-validator": "^6.10.0",
     "filelist": {
       "integrity": "sha512-z7O0IS8Plc39rTCq6i6iHxk43duYOn8uFJiWSewIq0Bww1RNybVHSCjahmcC87ZqAm4OTvFzlzeGu3XAzG1ctQ==",
       "requires": {
