@@ -233,6 +233,7 @@
       "resolved": "https://registry.npmjs.org/setprototypeof/-/setprototypeof-1.1.1.tgz",
       "version": "1.1.1"
     },
+    "socket.io": "^4.0.1",
     "statuses": {
       "integrity": "sha1-Fhx9rBd2Wf2YEfQ3cfqZOBR4Yow=",
       "resolved": "https://registry.npmjs.org/statuses/-/statuses-1.5.0.tgz",
